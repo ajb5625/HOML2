@@ -5,11 +5,11 @@ Current page progress = 188 / 718 = 26.18
 
 Chapter pagecounts
 
-Part 1: The Fundamentals of Machine Learning
+Part 1: The Fundamentals of Machine Learning\
 
-Chapter 1: The Machine Learning Landscape - 34
-Chapter 2: End-to-End Machine Learning Project - 50
-Chapter 3: Classification - 25
+Chapter 1: The Machine Learning Landscape - 34\
+Chapter 2: End-to-End Machine Learning Project - 50\
+Chapter 3: Classification - 25\
 Chapter 4: Training Models - 42
 Chapter 5: Support Vector Machines - 22
 Chapter 6: Decision Trees - 15
