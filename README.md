@@ -15,7 +15,7 @@ Chapter 5: Support Vector Machines - 22\
 Chapter 6: Decision Trees - 15\
 Chapter 7: Ensemble Learning and Random Forests - 24\
 Chapter 8: Dimensionality Reduction - 22\
-Chapter 9: Unsupervised Learning Techniques - 42\
+Chapter 9: Unsupervised Learning Techniques - 42
 
 Part 2: Neural Networks and Deep Learning
 
@@ -28,4 +28,4 @@ Chapter 15: Processing Sequences Using RNNs and CNNs - 28\
 Chapter 16: Natural Language Processing with RNNs and Attention - 42\
 Chapter 17: Representation Learning and Generative Learning Using Autoencoders and GANs - 41\
 Chapter 18: Reinforcement Learning - 57\
-Chapter 19: Training and Deploying TensorFlow Models at Scale - 52\
+Chapter 19: Training and Deploying TensorFlow Models at Scale - 52
