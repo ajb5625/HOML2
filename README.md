@@ -29,3 +29,6 @@ Chapter 16: Natural Language Processing with RNNs and Attention - 42\
 Chapter 17: Representation Learning and Generative Learning Using Autoencoders and GANs - 41\
 Chapter 18: Reinforcement Learning - 57\
 Chapter 19: Training and Deploying TensorFlow Models at Scale - 52
+
+
+Test
