@@ -1,7 +1,7 @@
 # HOML2
 Exercises completed working through Hands on Machine Learning 2
 
-Current page progress = 302 / 718 = 42.06%
+Current page progress = 312 / 718 = 43.45%
 
 Chapter pagecounts
 
@@ -29,5 +29,3 @@ Chapter 16: Natural Language Processing with RNNs and Attention - 42\
 Chapter 17: Representation Learning and Generative Learning Using Autoencoders and GANs - 41\
 Chapter 18: Reinforcement Learning - 57\
 Chapter 19: Training and Deploying TensorFlow Models at Scale - 52
-
-lol im such a nerd for stats :)
