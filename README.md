@@ -1,7 +1,7 @@
 # HOML2
 Exercises completed working through Hands on Machine Learning 2
 
-Current page progress = 312 / 718 = 43.45%
+Current page progress = 330 / 718 = 45.96%
 
 Chapter pagecounts
 
